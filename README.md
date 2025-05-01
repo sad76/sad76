@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F716&width=435&lines=Hi%2C+i'm+dev+frontend" alt="Typing SVG" /></a>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+I'm+Brunno+:D)](https://git.io/typing-svg)
+
 <p align="center">
   I'm a {backend, frontend} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
 </p>
@@ -13,8 +13,6 @@
 
 ## 🚀 Projects
 
-### [victims.lol](https://victims.lol)
-A biography platform where you can create profiles for yourself and your Discord friends. Add a splash of color, choose a background, and let the music play!
 
 ### [tradenode.org](https://tradenode.org)
 An innovative trading platform that combines automated trading strategies with advanced market analysis. Built with modern technologies to provide real-time market data and execution capabilities.
