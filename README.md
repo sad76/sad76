@@ -1,16 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F716&width=435&lines=Hi%2C+i'm+dev+frontend" alt="Typing SVG" /></a>
 
 
-<p align="center">
-  I'm a {backend, frontend} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
+<p align="center"> 
+I'm a {backend, frontend} developer, currently studying programming and doing my best to expand and deepen my knowledge in the area.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crynew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <p align="center">
-    <img src="https://api.victims.bio/discord/user/discord-arts/80204837928574976/card?badgesFrame=true&backgroundBrightness=0&moreBackgroundBlur=true&" alt="Discord" width="600" height="200" />
-</p>
-
+    
 ## 🚀 Projects
 
 
