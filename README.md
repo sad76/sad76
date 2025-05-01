@@ -43,7 +43,7 @@ An innovative trading platform that combines automated trading strategies with a
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Brunno's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=crynew&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Kaua's GitHub Stats" />
       </td>
       <td>
         <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=crynew&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
